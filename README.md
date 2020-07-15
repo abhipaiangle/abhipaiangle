@@ -2,9 +2,9 @@
 
 Abhishek here , a Curious Coder.
 
-I am 1st year Undergaduate student at IIT Bombay, specialising in Metallurgical Engineering and Materials Science. My interests are Coding, Machine Learning, Exploring new places and Going on adventures. I like Table-tennis, Cricket, Basketball and Football. In my free time I prefer binge-watching over sleeping 😄.
+I am 1st year Undergaduate student :boy: at Indian Institute of Technology Bombay :european_post_office:, Mumbai, India, specialising in Metallurgical Engineering and Materials Science. My interests are Coding, Machine Learning, Exploring new places and Going on adventures. I like Table-tennis, Cricket, Basketball and Football. In my free time I prefer binge-watching :tv: over sleeping :sleeping: .
 
-Check out my personal blog by clicking this emoji [⚡](https://abhipaiangle.com)
+Check out my personal blog by clicking this [:rocket:](https://abhipaiangle.com)
 
 <!--
 **abhipaiangle/abhipaiangle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
