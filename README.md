@@ -2,7 +2,7 @@
 
 Abhishek here , a Curious Coder.
 
-I am 1st year Undergaduate student :boy: at Indian Institute of Technology Bombay :european_post_office:, Mumbai, India, specialising in Metallurgical Engineering and Materials Science. My interests are Coding, Machine Learning, Exploring new places and Going on adventures. I like Table-tennis, Cricket, Basketball and Football. In my free time I prefer binge-watching :tv: over sleeping :sleeping: .
+I am 1st year Undergaduate student :boy: at Indian Institute of Technology Bombay :european_post_office:, Mumbai :city_sunset:, India :india:, specialising in Metallurgical Engineering and Materials Science. My interests are Coding, Machine Learning, Exploring new places and Going on adventures. I like Table-tennis, Cricket, Basketball and Football. In my free time I prefer binge-watching :tv: over sleeping :sleeping: .
 
 Check out my personal blog by clicking this [:rocket:](https://abhipaiangle.com)
 
