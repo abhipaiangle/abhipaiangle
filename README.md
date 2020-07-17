@@ -18,7 +18,7 @@ Check out my personal blog by clicking on this [:rocket:](https://abhipaiangle.c
 <script>
   document.querySelector('h1').onclick( () => {
   this.innerHTML = Welcome To My Github Profile
-  }
+  });
 </script>
 
 <!--
