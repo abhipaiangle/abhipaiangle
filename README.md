@@ -6,8 +6,8 @@ I am 1st year Undergaduate student :boy: at Indian Institute of Technology Bomba
 
 Head over to some of my project repositories:
 
-* [Chat Application](https://github.com/abhipaiangle/Web-Development/tree/Flack)
-* [Book Review Appplication](https://github.com/abhipaiangle/Web-Development/tree/Book_review)
+* [Chat Application](https://github.com/abhipaiangle/pi-chat)
+* [Book Review Appplication](https://github.com/abhipaiangle/pi-books)
 * [Seasons of Code Tasks](https://github.com/abhipaiangle/Intelligent_Agent_AbhishekPaiAngle)
 * [Machine Learning Tasks](https://github.com/abhipaiangle/Projects)
 
