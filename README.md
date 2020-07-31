@@ -8,6 +8,7 @@ Head over to some of my project repositories:
 
 * [Chat Application](https://github.com/abhipaiangle/pi-chat)
 * [Book Review Appplication](https://github.com/abhipaiangle/pi-books)
+* [Wiki](https://github.com/abhipaiangle/django-wiki)
 * [Seasons of Code Tasks](https://github.com/abhipaiangle/Intelligent_Agent_AbhishekPaiAngle)
 * [Machine Learning Tasks](https://github.com/abhipaiangle/Projects)
 
