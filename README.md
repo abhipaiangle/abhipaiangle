@@ -2,15 +2,19 @@
 
 Abhishek here , a Curious Coder.
 
-I am 1st year Undergaduate student :boy: at Indian Institute of Technology Bombay :european_post_office:, Mumbai :city_sunset:, India, specialising in Metallurgical Engineering and Materials Science. My interests are Machine Learning, Web Development, Exploring new places :airplane: :steam_locomotive: and Going on adventures :snowboarder:. I like Table-tennis :ping_pong:, Cricket :cricket_game:, Basketball :basketball: and Football :soccer: . In my free time I prefer binge-watching :tv: over sleeping :sleeping: .
+I am 1st year Undergaduate student :boy: at Indian Institute of Technology Bombay :european_post_office:, Mumbai :city_sunset:, India. My coding interests are Machine Learning, Web Development. I have worked on frameworks like **Flask, Django** and  **Jekyll**, which you can view in my repositories. In Machine Learning, I have hands on experience with **Artificial Neural Networks**, **Convolutional Neural Networks**, **Regression** and **Classification**. I also serve as a **Convener** for Web and Coding Club, IIT Bombay (@wncc), the official coding club of IIT Bombay that conducts events, talks, hackathons, etc to make the coding culture prosporous in the Institute.
 
-Head over to some of my self project repositories:
+Here are some of my self project repositories:
 
 * [Chat Application](https://github.com/abhipaiangle/pi-chat)
 * [Book Review Appplication](https://github.com/abhipaiangle/pi-books)
 * [Wiki](https://github.com/abhipaiangle/django-wiki)
 * [Seasons of Code Tasks](https://github.com/abhipaiangle/Intelligent_Agent_AbhishekPaiAngle)
 * [Machine Learning Tasks](https://github.com/abhipaiangle/Projects)
+
+Here are some of my contributions:
+
+* [Learner's Space: Python Course](https://github.com/abhipaiangle/learners-space)
 
 Check out my personal blog by clicking on this [:rocket:](https://abhipaiangle.com)
 
