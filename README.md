@@ -2,7 +2,7 @@
 
 Abhishek here , a Curious Coder.
 
-I am 1st year Undergaduate student :boy: at Indian Institute of Technology Bombay :european_post_office:, Mumbai :city_sunset:, India. My coding interests are Machine Learning, Web Development. I have worked on frameworks like **Flask, Django** and  **Jekyll**, which you can view in my repositories. In Machine Learning, I have hands on experience with **Artificial Neural Networks**, **Convolutional Neural Networks**, **Regression** and **Classification**. I also serve as a **Convener** for Web and Coding Club, IIT Bombay (@wncc), the official coding club of IIT Bombay that conducts events, talks, hackathons, etc to make the coding culture prosporous in the Institute.
+I am 1st year Undergaduate student :boy: at Indian Institute of Technology Bombay :european_post_office:, Mumbai :city_sunset:, India. My coding interests are Machine Learning, Web Development. I have worked on frameworks like **Flask, Django** and  **Jekyll**, which you can view in my repositories. In Machine Learning, I have hands on experience with **Artificial Neural Networks**, **Convolutional Neural Networks**, **Regression** and **Classification**. I also serve as a **Convener** for [Web and Coding Club, IIT Bombay](https://github.com/wncc), the official programming club of IIT Bombay that conducts events, talks, hackathons, etc to make the coding culture prosporous in the Institute.
 
 Here are some of my self project repositories:
 
