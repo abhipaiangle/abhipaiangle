@@ -6,9 +6,9 @@ I am 2nd year Undergraduate student :boy: at Indian Institute of Technology Bomb
 
 Here are some of my self project repositories:
 
-* [Chat Application](https://github.com/abhipaiangle/pi-chat)
+* [Real-time Chat Application](https://github.com/abhipaiangle/pi-chat)
 * [Book Review Appplication](https://github.com/abhipaiangle/pi-books)
-* [Wiki](https://github.com/abhipaiangle/django-wiki)
+* [Django Wiki](https://github.com/abhipaiangle/django-wiki)
 * [Seasons of Code Tasks](https://github.com/abhipaiangle/Intelligent_Agent_AbhishekPaiAngle)
 * [Machine Learning Tasks](https://github.com/abhipaiangle/Projects)
 
