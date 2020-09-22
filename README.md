@@ -10,9 +10,8 @@ Here are some of my self project repositories:
 * [Book Review Appplication](https://github.com/abhipaiangle/pi-books)
 * [Django Wiki](https://github.com/abhipaiangle/django-wiki)
 * [Seasons of Code Tasks](https://github.com/abhipaiangle/Intelligent_Agent_AbhishekPaiAngle)
-* [Machine Learning Tasks](https://github.com/abhipaiangle/Projects)
 
-Here are some of my contributions:
+Here are some of my resources contributions:
 
 * [Learner's Space: Python Course](https://github.com/abhipaiangle/learners-space)
 
